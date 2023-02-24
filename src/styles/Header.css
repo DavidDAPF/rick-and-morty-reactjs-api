@@ -1,0 +1,27 @@
+.header-main{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-evenly;
+  background-color: #685ea9;
+  width: auto;
+}
+
+.header-title{
+  color: white;
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.header-button{
+  padding: 5px 15px;
+  background-color: #e7d4c0;
+  border: none;
+  color: black;
+  font-size: 20px;
+}
+
+.header-button:hover{
+  background-color: #d8c7b5;
+}

@@ -1,0 +1,20 @@
+.card-main{
+  margin: 30px;
+  border: 1px solid #E7D4C0;
+}
+
+.card-contain{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 40px;
+  background-color:#7bacca;
+}
+
+.card-data{
+  display: flex;
+  flex-direction: column;
+  color:black;
+  font-size: 25px;
+  font-weight: bold;
+}
